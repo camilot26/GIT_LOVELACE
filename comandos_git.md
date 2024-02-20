@@ -34,6 +34,12 @@ y si es VIM esc y :wq
 -git log 
 
 git log --oneline  
+
+## Comando para cambiar de versión
+
+
+- git cheackout <id, dek commit o nombre de la rama>
+
 ## PASOS PARA CREAR UNA VERSION DE NUESTRO CODIGO 
 
 1. AGREGAR TODO LOS ARCHIVOS AL COMMIT 
@@ -45,3 +51,4 @@ git log --oneline
 2. tomar la foto del codigo (crear una nueva version)
 
 - git commit -m "nombre del comit"
+
