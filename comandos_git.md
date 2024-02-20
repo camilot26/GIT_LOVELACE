@@ -24,10 +24,24 @@ y si es VIM esc y :wq
 
 -git init 
 
+
+## comando para saber el estado de nuestros archivos 
+
+-git status
+
+## Comandos para listar las versiones de mi proyecto 
+
+-git log 
+
+git log --oneline  
 ## PASOS PARA CREAR UNA VERSION DE NUESTRO CODIGO 
 
 1. AGREGAR TODO LOS ARCHIVOS AL COMMIT 
 
 -git add. TODOS
--git add*.js SOLO ARCHIVOS CON LA EXTENSION
+-git add /*.js SOLO ARCHIVOS CON LA EXTENSION
 -git add index.js UN SOLO ARCHIVO CON EL NOMBRE Y EL PUNTO DE LA EXTENSION 
+
+2. tomar la foto del codigo (crear una nueva version)
+
+- git commit -m "nombre del comit"
