@@ -51,4 +51,4 @@ git log --oneline
 2. tomar la foto del codigo (crear una nueva version)
 
 - git commit -m "nombre del comit"
-
+    
