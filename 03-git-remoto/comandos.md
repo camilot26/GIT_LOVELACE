@@ -24,4 +24,5 @@ git push --all (agregar a todos las ramas)
 
 git pull 
 git pull nombre_conexion nombre_rama
+## titulo 2
 
